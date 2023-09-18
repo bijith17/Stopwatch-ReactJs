@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font  */
+  @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+/* font  */
+body {
+  margin: 0;
+  font-family: 'Raleway Dots', cursive;
+  font-weight: 400;
+}
