@@ -46,7 +46,7 @@ function App() {
     <>
    
     <div className="flex flex-col items-center justify-center h-screen text-white bg-gradient-to-r from-color1 via-color2 to-color3">
-    <h1 className='text-white text-center position absolute top-10 text-xl md:text-2xl lg:text-7xl'>STOPWATCH</h1>
+    <h1 className='text-white text-center position absolute top-10 text-2xl md:text-4xl lg:text-7xl'>STOPWATCH</h1>
       <div className="text-6xl mb-8 font-sans">{formatTime(time)}</div>
       <div className="flex gap-4">
         <button
